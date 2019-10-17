@@ -1,0 +1,11 @@
+C:\Users\opilane\projects\ConsoleApp1\My_function\bin\Debug\netcoreapp3.0\My_function.exe
+C:\Users\opilane\projects\ConsoleApp1\My_function\bin\Debug\netcoreapp3.0\My_function.deps.json
+C:\Users\opilane\projects\ConsoleApp1\My_function\bin\Debug\netcoreapp3.0\My_function.runtimeconfig.json
+C:\Users\opilane\projects\ConsoleApp1\My_function\bin\Debug\netcoreapp3.0\My_function.runtimeconfig.dev.json
+C:\Users\opilane\projects\ConsoleApp1\My_function\bin\Debug\netcoreapp3.0\My_function.dll
+C:\Users\opilane\projects\ConsoleApp1\My_function\bin\Debug\netcoreapp3.0\My_function.pdb
+C:\Users\opilane\projects\ConsoleApp1\My_function\obj\Debug\netcoreapp3.0\My_function.csprojAssemblyReference.cache
+C:\Users\opilane\projects\ConsoleApp1\My_function\obj\Debug\netcoreapp3.0\My_function.AssemblyInfoInputs.cache
+C:\Users\opilane\projects\ConsoleApp1\My_function\obj\Debug\netcoreapp3.0\My_function.AssemblyInfo.cs
+C:\Users\opilane\projects\ConsoleApp1\My_function\obj\Debug\netcoreapp3.0\My_function.dll
+C:\Users\opilane\projects\ConsoleApp1\My_function\obj\Debug\netcoreapp3.0\My_function.pdb
